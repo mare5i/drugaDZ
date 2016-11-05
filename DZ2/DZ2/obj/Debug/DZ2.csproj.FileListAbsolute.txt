@@ -1,0 +1,5 @@
+c:\users\peti\documents\visual studio 2015\Projects\DZ2\DZ2\bin\Debug\DZ2.exe.config
+c:\users\peti\documents\visual studio 2015\Projects\DZ2\DZ2\bin\Debug\DZ2.exe
+c:\users\peti\documents\visual studio 2015\Projects\DZ2\DZ2\bin\Debug\DZ2.pdb
+c:\users\peti\documents\visual studio 2015\Projects\DZ2\DZ2\obj\Debug\DZ2.exe
+c:\users\peti\documents\visual studio 2015\Projects\DZ2\DZ2\obj\Debug\DZ2.pdb

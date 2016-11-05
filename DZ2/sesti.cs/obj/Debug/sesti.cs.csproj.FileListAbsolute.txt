@@ -1,0 +1,5 @@
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\sesti.cs\bin\Debug\sesti.cs.exe.config
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\sesti.cs\bin\Debug\sesti.cs.exe
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\sesti.cs\bin\Debug\sesti.cs.pdb
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\sesti.cs\obj\Debug\sesti.cs.exe
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\sesti.cs\obj\Debug\sesti.cs.pdb

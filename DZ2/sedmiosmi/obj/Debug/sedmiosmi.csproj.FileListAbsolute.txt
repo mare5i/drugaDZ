@@ -1,0 +1,5 @@
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\sedmiosmi\bin\Debug\sedmiosmi.exe.config
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\sedmiosmi\bin\Debug\sedmiosmi.exe
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\sedmiosmi\bin\Debug\sedmiosmi.pdb
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\sedmiosmi\obj\Debug\sedmiosmi.exe
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\sedmiosmi\obj\Debug\sedmiosmi.pdb

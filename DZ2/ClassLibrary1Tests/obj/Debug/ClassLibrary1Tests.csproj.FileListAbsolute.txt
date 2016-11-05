@@ -1,0 +1,8 @@
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.csprojResolveAssemblyReference.cache
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\ClassLibrary1Tests\bin\Debug\ClassLibrary1Tests.dll
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\ClassLibrary1Tests\bin\Debug\ClassLibrary1Tests.pdb
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\ClassLibrary1Tests\bin\Debug\ClassLibrary1.dll
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\ClassLibrary1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\ClassLibrary1Tests\bin\Debug\ClassLibrary1.pdb
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.dll
+c:\Users\Peti\documents\visual studio 2015\Projects\DZ2\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.pdb
